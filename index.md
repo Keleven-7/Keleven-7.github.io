@@ -20,7 +20,7 @@ I am an exchange student from mju majoring in Computer Science and Technology.
 **不算技能的技能：**
 - 浅显的书本知识
 - 初级的编程能力，都知道但都不精通<br>
-如：c语言、c++、Python、HTML等
+如：c语言、c++、Python、HTML等<br>
 - 完全不够用的算法能力
 - 勉强能用的搜寻资料的能力和自学能力<br>
 **专业相关经历：**
