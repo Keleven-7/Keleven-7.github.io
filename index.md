@@ -12,37 +12,35 @@ I am an exchange student from mju majoring in Computer Science and Technology.
 
 <br>
 
-## 
+---
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+## 成就、成果，技能和专业相关经验经历
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
-
+没有什么成就和成果，只是没有挂过科并且绩点达标所以来做了**交换生**。
+-**不算技能的技能：**
+- 浅显的书本知识
+- 初级的编程能力，都知道但都不精通 如：c语言、c++、Python、HTML等
+- 完全不够用的算法能力(
+- 勉强能用的搜寻资料的能力和自学能力
+-**专业相关经历：**
+- 大一跟过学长学姐做过关于糖尿病病人尿液分析检测的图像化的项目
+- 大二至今加入了一个无人机海上风叶防雷点检测的项目小组
+在两个项目组中都有着手做过一些东西，但都派不上什么太大的用场，大一时因为没什么专业能力，所以主要以学长学姐为主力，自己只是看看论文了解了解工作机理，帮助他们打打杂；
+大二至今的项目组需要学生做的东西不多，因为需要的一些物理模型很多，所以需要合作的企业去做，我们主要在做摄像头的一些连接和传输、无人机的控制等等，比起我同组的同学会更加得心应手。
+也只能算是拥有（混过）一些项目经历。
 <br>
 
 ---
 
-## Research Interests
-
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
+## 自我评估
+自我感觉很一般甚至是差，尤其是交换后看见这么多厉害的同学。
+还缺少很多能力，首先还是代码技能和编程能力，之后就是团队合作能力，将理论转化为实践的能力。
 <br>
 
 ---
 
-## News and Updates
-
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+## 发展设想
+- 设想
+打算直接就业，觉得考研考公很重要，但对自己的能力又太了解，大概率是考不上好的学校，而出国学习镀金，对家庭的压力太大，成本过高就不考虑了，所以打算直接工作，攒攒实际的社会工作经验。
+- 小小目标
+对于接下来的交换生一年，主要目标还是要再加强自己的编程水平，对自己的专业知识查漏补缺，课上认真听讲课下勤问老师之类的，加强对于学科的理解及思考，额外学习学习网课等，制定详细的学习计划，针对以后的就业调整自己的方向。
