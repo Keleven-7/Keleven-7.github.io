@@ -16,7 +16,8 @@ I am an exchange student from mju majoring in Computer Science and Technology.
 
 ## 成就、成果，技能和专业相关经验经历
 
-没有什么成就和成果，只是没有挂过科并且绩点达标所以来做了**交换生**。<br>
+没有什么成就和成果，只是没有挂过科并且绩点达标所以来做了**交换生**。
+<br>
 **不算技能的技能：**
 - 浅显的书本知识
 - 初级的编程能力，都知道但都不精通 如：c语言、c++、Python、HTML等
